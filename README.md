@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور عينيك بيناديني في السهر
+> شوقي ليك بيكبر مع ضي القمر
+> قلبي داب من لمسة فيها سحر
+> روحي معاك في كل خطوة يا قدر
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
