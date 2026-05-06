@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-fi-kol-khotwa/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get License For Ma3ak Fi Kol Khotwa](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Ma3ak Fi Kol Khotwa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
