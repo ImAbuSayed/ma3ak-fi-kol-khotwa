@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Ma3ak Fi Kol Khotwa |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 04, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3ak-fi-kol-khotwa/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Ma3ak Fi Kol Khotwa](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
