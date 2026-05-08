@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ma3ak Fi Kol Khotwa
+
+This log tracks the cryptographic history and versioning for the song **Ma3ak Fi Kol Khotwa** (ma3ak-fi-kol-khotwa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:04:46.377006 | `v1` | `dbaf735de2c6bd539fbac7a6e446f63838f5d879221169aef4495afdebcfed97` | `ceae9f3eb32cacec953276d3b36a30de0aa166f341f781715aaf50d30c0e7617` | `2026-05-08_ma3ak-fi-kol-khotwa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
